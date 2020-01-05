@@ -1,0 +1,3 @@
+[submodule "test_poetry_submodule/poetry_private_module"]
+	path = test_poetry_submodule/poetry_private_module
+	url = https://github.com/matemax/poetry_private_module.git
